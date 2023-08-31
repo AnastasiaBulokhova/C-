@@ -13,3 +13,18 @@ C:\Users\Nastua\Desktop\обучение\C#\Examples001_NewConsole\obj\Debug\net
 C:\Users\Nastua\Desktop\обучение\C#\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.pdb
 C:\Users\Nastua\Desktop\обучение\C#\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.genruntimeconfig.cache
 C:\Users\Nastua\Desktop\обучение\C#\Examples001_NewConsole\obj\Debug\net6.0\ref\Examples001_NewConsole.dll
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\bin\Debug\net6.0\Examples001_NewConsole.exe
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\bin\Debug\net6.0\Examples001_NewConsole.deps.json
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\bin\Debug\net6.0\Examples001_NewConsole.runtimeconfig.json
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\bin\Debug\net6.0\Examples001_NewConsole.dll
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\bin\Debug\net6.0\Examples001_NewConsole.pdb
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.csproj.AssemblyReference.cache
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.AssemblyInfoInputs.cache
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.AssemblyInfo.cs
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.dll
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\obj\Debug\net6.0\refint\Examples001_NewConsole.dll
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.pdb
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\obj\Debug\net6.0\Examples001_NewConsole.genruntimeconfig.cache
+C:\Users\Nastua\Desktop\обучение\Лекции по C#\C#\Examples001_NewConsole\obj\Debug\net6.0\ref\Examples001_NewConsole.dll

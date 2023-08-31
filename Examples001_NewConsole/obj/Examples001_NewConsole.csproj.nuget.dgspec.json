@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nastua\\Desktop\\обучение\\C#\\Examples001_NewConsole\\Examples001_NewConsole.csproj": {}
+    "C:\\Users\\Nastua\\Desktop\\обучение\\Лекции по C#\\C#\\Examples001_NewConsole\\Examples001_NewConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nastua\\Desktop\\обучение\\C#\\Examples001_NewConsole\\Examples001_NewConsole.csproj": {
+    "C:\\Users\\Nastua\\Desktop\\обучение\\Лекции по C#\\C#\\Examples001_NewConsole\\Examples001_NewConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nastua\\Desktop\\обучение\\C#\\Examples001_NewConsole\\Examples001_NewConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Nastua\\Desktop\\обучение\\Лекции по C#\\C#\\Examples001_NewConsole\\Examples001_NewConsole.csproj",
         "projectName": "Examples001_NewConsole",
-        "projectPath": "C:\\Users\\Nastua\\Desktop\\обучение\\C#\\Examples001_NewConsole\\Examples001_NewConsole.csproj",
+        "projectPath": "C:\\Users\\Nastua\\Desktop\\обучение\\Лекции по C#\\C#\\Examples001_NewConsole\\Examples001_NewConsole.csproj",
         "packagesPath": "C:\\Users\\Nastua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nastua\\Desktop\\обучение\\C#\\Examples001_NewConsole\\obj\\",
+        "outputPath": "C:\\Users\\Nastua\\Desktop\\обучение\\Лекции по C#\\C#\\Examples001_NewConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nastua\\AppData\\Roaming\\NuGet\\NuGet.Config"
